@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx @11ty/eleventy:*)",
+      "Bash(cp:*)",
+      "Bash(grep:*)"
+    ],
+    "deny": []
+  }
+}

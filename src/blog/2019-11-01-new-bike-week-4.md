@@ -1,0 +1,19 @@
+---
+layout: post-notes.njk
+title: "new bike week! 4"
+date: 2019-11-01T00:00:00.000Z
+tags: [weeknote]
+tumblr_url: 
+---
+
+
+*   [DOTI Fest](https://dotifest.com/) was great. not least giving myself permission to go to things that I’m interested in. for a very short period of time, I was going to skip the design x climate crisis workshop, because I had a bunch of office-work to do and I thought, maybe I should just go and do that. then I thought, hey now, why are you preventing yourself from being interested in a thing you’re interested in? have to assume that my occasional problems around giving myself permission to do or show interest in things I want to do is some kind of third-generation Catholic guilt.
+*   we’re already talking about climate in the design team more: 11 minutes at 11 today, and Laurence [doing some quality tweeting](https://twitter.com/laurence_berry/status/1190306680178905088). in my real life I cycle to the zero waste shop in Nunhead to fill up a jar with organic muesli. in my work life I buy takeaway food and put the container in the bin. I’m hoping that now we’re chatting about this more at work it will close the disconnect between the two.
+*   a general issue of too much work, too little time this week. obviously I didn’t make it easy for myself by being out all day on Thursday to go to DOTI Fest, but frankly I needed a day out of the office getting excited by and interested in the work that other people are doing.
+*   one day this week I got an email that infuriated me so much that I closed my laptop, went for a short walk, and then texted someone at Brixton Cycles to say yes, I will buy that frame you’re selling. minty green Straggler with 650B wheels here I come! it’s been about five years since I first wanted a Surly. when I was growing up my parents taught me about buyers’ remorse and to sit with the idea of buying the thing in order to try to feel any buyers’ remorse before buying something. then you can still avoid buying it if you regret it! I am pretty sure this 5 year incubation period has removed any risk of buyers’ remorse. and somehow I’m never happier than when researching gear ratios!
+*   I did not reply to the infurating email.
+*   ‘do you still write like Carles?’ [Mark](https://mhurrell.co.uk/prospects/) asked last night as we brainstormed more Hipster Runoff-esque content while I wondered out loud “do I have a voice? is this content authentic for me?”. so far: top 10 diary stalking moments. top 5 things I’ve watched on iPlayer in a foreign hotel room. top 10 central-and-eastern European pretzel sticks?
+*   I spoke to someone this morning about wanting to build up a really strong user-centred design community across our directorate. in perfect timing, job ads for [two senior service designers are now very much live](https://jobs.jobvite.com/gds/job/ouArbfwq). you too could watch the Thick of It from your room in a hotel run by an American chain! no seriously, it’s v interesting work. feel free to get in touch with me if you’re tempted to apply and want to talk about it more before doing so.
+*   made a point in a meeting which prompted someone to send me a message saying “Smashed it with that comment”, bring me into your meetings for witticisms and hard-hitting, evidence-based truthbombs.
+*   except don’t bring me into your meetings because did I mention I have a lot of work on right now? I’d have to run your meeting through my Monday morning prioritisation exercise and my WIP quota is really quite full.
+*   an agency I won’t name once rejected me from a job because I couldn’t explain Kanban properly. they told me I didn’t know enough about agile and I thought, god, it’s not hard though is it? ([an entire industry disagrees with me](https://www.google.com/search?q=scrum+training&oq=scrum+training&aqs=chrome..69i57j0l5.1679j1j7&sourceid=chrome&ie=UTF-8).)

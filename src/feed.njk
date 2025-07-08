@@ -1,0 +1,27 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anna Goss - Notes</title>
+  <subtitle>Thoughts, observations, and weeknotes from Anna Goss</subtitle>
+  <link href="https://notes.annagoss.co/feed.xml" rel="self"/>
+  <link href="https://notes.annagoss.co/"/>
+  <updated>{{ collections.blogPosts[0].data.date.toISOString() }}</updated>
+  <id>https://notes.annagoss.co/</id>
+  <author>
+    <name>Anna Goss</name>
+    <email>anna@ff.studio</email>
+  </author>
+  
+  {% for post in collections.blogPosts.slice(0, 20) %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="https://notes.annagoss.co{{ post.url }}"/>
+    <updated>{{ post.data.date.toISOString() }}</updated>
+    <id>https://notes.annagoss.co{{ post.url }}</id>
+    <content type="html">{{ post.templateContent | safe }}</content>
+  </entry>
+  {% endfor %}
+</feed>

@@ -1,0 +1,43 @@
+---
+layout: base.njk
+title: Notes
+pagination:
+  data: collections.blogPosts
+  size: 3
+  alias: posts
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}{{ pagination.pageNumber + 1 }}/{% endif %}"
+---
+
+<h1>Notes</h1>
+
+<div class="back-link">
+  <a href="https://annagoss.co" class="back-to-main">← Back to annagoss.co</a>
+</div>
+
+{% for post in posts %}
+<article class="notes-post">
+  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+  <div class="post-meta">
+    <time datetime="{{ post.data.date.toISOString().slice(0,10) }}">{{ post.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
+  </div>
+  <div class="post-content">
+    {{ post.templateContent | safe }}
+  </div>
+</article>
+{% if not loop.last %}
+<hr class="post-separator">
+{% endif %}
+{% endfor %}
+
+{% if pagination.hrefs.length > 1 %}
+<nav class="pagination">
+  <div class="pagination-links">
+    {% if pagination.href.previous %}
+      <a href="{{ pagination.href.previous }}" class="pagination-link pagination-newer">← Newer posts</a>
+    {% endif %}
+    {% if pagination.href.next %}
+      <a href="{{ pagination.href.next }}" class="pagination-link pagination-older">Older posts →</a>
+    {% endif %}
+  </div>
+</nav>
+{% endif %}

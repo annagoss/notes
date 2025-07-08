@@ -1,0 +1,16 @@
+---
+layout: post-notes.njk
+title: "come on pilgrim. 26"
+date: 2020-05-05T00:00:00.000Z
+tags: [weeknote]
+tumblr_url: 
+---
+
+
+*   the week before last, I didn’t want to write a weeknote. last week, I just didn’t make the time for it. sorry to my 25 week streak.
+*   we cleaned out / tided the shed. I’m simultaneously very happy about this and also a bit sad that “sorting out the shed” is no longer a thing to look forward to. questions remain outstanding over what I should do with one working and one broken Shimano 600 STI shifters/brake levers, not to mention the many spare downtube shifters I appear to have acquired in the past decade. I’ve got enough spare parts that I could build a real mongrel of a bike, although it would be a bike without a front wheel, brakes or a seatpost.
+*   yesterday I took an hour for lunch and went out on my bike and down to [Fowlds](http://fowldsupholsterers.co.uk/fowlds-cafe/2841761) (inspired by [Andy](http://andy-matthews.co.uk/blog/)). had my first flat white in 7 weeks which was simultaneously lovely and also underwhelming. hope the first pint in the Gowlett is more momentous.
+*   the other success story of the week is that I bought a [tiny solar panel and bulb](https://www.amazon.co.uk/Solar-Powered-Shed-Light-Bulb/dp/B074W4RDWQ/ref=pd_ybh_a_2?_encoding=UTF8&psc=1&refRID=NWRE9CMPKD9M64PP769R) (off Amazon, sorry world). solar panel on roof of shed, bulb off a hook inside. there’s a whole world of solar panel lighting out there when you start looking. surely we can’t be far off my dream of a solar powered freezer (never say I don’t dream big).
+*   we’ve started going for walks first thing, leaving the flat somewhere between 6.30-7am. either up to Dulwich - park or woods - or, this morning, to Brockwell Park. it’s good to get a headstart on the day, and getting back at 7.45 still feels like enough time to have a cup of tea and a sit before starting work. when did I become a willing participant in mornings?
+*   work: continues. there was a point last week that I was like, ah, here I am, at the perfect point which intersects across all of my experience. that quickly folded into “I offer nothing unique on this project”, and now we’re back to an even keel again. what a rollercoaster! I’m getting big meeting fatigue, though, so this week I’m trying to just…get us all writing stuff down more. like [the Jeff Bezos 6-page-memo](https://blog.aboutamazon.com/company-news/2017-letter-to-shareholders/) thing. though, lols at having a week to write something at the pace we’re moving. nice idea, Jeff!
+*   the only other thing of note is that I bought a new phone for the first time since February 2015. the iPhone SE is pretty much exactly the same form factor as my previous iPhone 6. I was deeply impressed with Apple’s onboarding / data transfer process - just keep the phones nearby each other, and everything will switch across, just a bit of extra auth required for banking apps - but unlocking a new phone to find it looks visually identical to the old one really exacerbated the feeling of slight underwhelm. no clean slates here! just a metal object, slightly different to your old metal object. I guess that’s the feeling when there’s the flip from smartphones being an object of novelty into being utility items. but at least Strava tracks my runs more accurately now.
