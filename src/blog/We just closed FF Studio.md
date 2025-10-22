@@ -1,6 +1,6 @@
 layout: post-notes.njk
 title: Designing a design studio
-date: 2025-10-22
+date: 2025-10-22T00:00:00.000Z
 
 
 [We just closed FF Studio](https://words.ff.studio/ending-well). While it’s fresh in my mind, I thought I’d write down some thoughts about the last three years, and about running a small studio that did mostly public sector or public sector adjacent work in 2025. For those unfamiliar: FF Studio was a small design and technology studio. I started it and ran it with [Eliot Fineberg](https://www.eliotfineberg.co.uk/). At our busiest we turned over £900k in a year and had c.8-10 freelancers working with us across 3 or 4 projects, mostly in the public sector.
