@@ -1,0 +1,28 @@
+---
+permalink: /rss
+eleventyExcludeFromCollections: true
+eleventyAllowMissingExtension: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://notes.annagoss.co/">
+  <title>Anna Goss - Notes</title>
+  <subtitle>Notes and weeknotes from Anna Goss</subtitle>
+  <link href="https://notes.annagoss.co/rss" rel="self"/>
+  <link href="https://notes.annagoss.co/"/>
+  <updated>{{ collections.blogPosts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>https://notes.annagoss.co/</id>
+  <author>
+    <name>Anna Goss</name>
+    <email>ag@annagoss.com</email>
+  </author>
+  {%- for post in collections.blogPosts | reverse %}
+  {%- set absolutePostUrl = post.url | absoluteUrl("https://notes.annagoss.co/") %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {%- endfor %}
+</feed>
