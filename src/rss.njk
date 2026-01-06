@@ -15,7 +15,7 @@ eleventyAllowMissingExtension: true
     <name>Anna Goss</name>
     <email>ag@annagoss.com</email>
   </author>
-  {%- for post in collections.blogPosts | reverse %}
+  {%- for post in collections.blogPosts %}
   {%- set absolutePostUrl = post.url | absoluteUrl("https://notes.annagoss.co/") %}
   <entry>
     <title>{{ post.data.title }}</title>
