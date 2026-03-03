@@ -1,7 +1,7 @@
 ---
 layout: post-notes.njk
 title: Handling complexity and system effects
-date: 2026-01-07T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 ---
 
 I’m still trying to close tabs.
