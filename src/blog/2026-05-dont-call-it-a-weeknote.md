@@ -8,7 +8,7 @@ It's just rained. The sky's a kind of pinky grey blue. There's a rainbow, I'm ou
 
 I'm four weeks into a new role as deputy director in the Test, Learn & Grow (TLG) programme in Cabinet Office. We're working with [ten places and local authorities on six missions](https://questions-statements.parliament.uk/written-statements/detail/2025-07-16/hlws832) - broadly around neighbourhood health, early years support, SEND, economic inactivity, violence against women and girls, and supporting children's social services. We call each of those teams 'accelerators'.
 
-The work is threefold:
+The work is twofold:
 - try some new interventions out, alongside communities and place partners, and see whether those interventions move the needle
 - keep learning about the test and learn methodology, what works, what doesn’t, and to share that knowledge more widely and do what we can to change the central government system to make it easier for other teams to ‘do’ test & learn
 
@@ -20,7 +20,7 @@ Of Whitehall
 and
 Of the internet
 
-All of those things are signifiers for something else - where place is relational practice, human learning systems, participation, or 'the internet' is working in the open, Kanban boards, lean UX, GDS myths and legends. I didn't pay enough attention during my degree to go full Derrida on this but we probably risk suffering from [différance](https://en.wikipedia.org/wiki/Diff%C3%A9rance) wherein "Past meanings leave "traces", and possible future meanings "haunt". The meaning of a sign is determined by the interaction between past traces, future haunts, and the system of signs in the present." (Thanks Wikipedia for the summary.)
+All of those things are signifiers for something else - where ‘place’ is relational practice, human learning systems, participation, or 'the internet' is working in the open, Kanban boards, lean UX, GDS myths and legends. Part of the work is observing and recognising and learning and talking about the signified, to reduce the risk of misinterpretation between us or more widely.
 
 I am pretty sure that my role in the programme is to lead being 'of the internet' - culturally, delivery, practices - while simultaneously learning from others who are more 'of place' or 'of Whitehall', including Nick and my fellow DD Christine. There is only so long you can be successful while going against the grain of your wider operating environment, so I'm very happy to have colleagues who know government inside out rather than to be in a GDS-Mark-Two, sitting outside of the centre as a tool to widen the Overton window of possibility.
 
