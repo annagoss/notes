@@ -1,6 +1,6 @@
 ---
 layout: post-notes.njk
-title: Don’t call it a week note
+title: Don't call it a week note
 date: 2026-05-16T00:00:00.000Z
 ---
 
@@ -10,17 +10,17 @@ I'm four weeks into a new role as deputy director in the Test, Learn & Grow (TLG
 
 The work is twofold:
 - try some new interventions out, alongside communities and place partners, and see whether those interventions move the needle
-- keep learning about the test and learn methodology, what works, what doesn’t, and to share that knowledge more widely and do what we can to change the central government system to make it easier for other teams to ‘do’ test & learn
+- keep learning about the test and learn methodology, what works, what doesn't, and to share that knowledge more widely and do what we can to change the central government system to make it easier for other teams to 'do' test & learn
 
-We're pretty convinced based on the first three demonstrator projects the team did in 2025 that this way of working works. It's taking a load of the standard digital practices - agility, collaboration, user-centred design - and adding in some others like working hand-in-glove with places and communities (because every place is different and potential solutions will vary), [mixed methods research and evaluation approaches embedded into teams](https://www.gov.uk/government/publications/the-magenta-book/test-and-learn-html)).
+We're pretty convinced based on the first three demonstrator projects the team did in 2025 that this way of working works. It's taking a load of the standard digital practices - agility, collaboration, user-centred design - and adding in some others like working hand-in-glove with places and communities (because every place is different and potential solutions will vary), [mixed methods research and evaluation approaches embedded into teams](https://www.gov.uk/government/publications/the-magenta-book/test-and-learn-html).
 
-I'm excited about the first part of the work, and I'm totally buzzed about the second. [Nick](https://www.linkedin.com/in/nick-kimber-a7789a21/) calls the work 'syncretic' - "combining or merging of various distinct beliefs or [schools of thought](https://en.wikipedia.org/wiki/School_of_thought "School of thought")". My layman's interpretation of that is that we are trying to be of three things:
-Of local or place
-Of Whitehall
-and
+I'm excited about the first part of the work, and I'm totally buzzed about the second. [Nick](https://www.linkedin.com/in/nick-kimber-a7789a21/) calls the work 'syncretic' - "combining or merging of various distinct beliefs or [schools of thought](https://en.wikipedia.org/wiki/School_of_thought "School of thought")". My layman's interpretation of that is that we are trying to be of three things:  
+Of local or place  
+Of Whitehall  
+and  
 Of the internet
 
-All of those things are signifiers for something else - where ‘place’ is relational practice, human learning systems, participation, or 'the internet' is working in the open, Kanban boards, lean UX, GDS myths and legends. Part of the work is observing and recognising and learning and talking about the signified, to reduce the risk of misinterpretation between us or more widely.
+All of those things are signifiers for something else - where 'place' is relational practice, human learning systems, participation, or 'the internet' is working in the open, Kanban boards, lean UX, GDS myths and legends. Part of the work is observing and recognising and learning and talking about the signified, to reduce the risk of misinterpretation between us or more widely.
 
 I am pretty sure that my role in the programme is to lead being 'of the internet' - culturally, delivery, practices - while simultaneously learning from others who are more 'of place' or 'of Whitehall', including Nick and my fellow DD Christine. There is only so long you can be successful while going against the grain of your wider operating environment, so I'm very happy to have colleagues who know government inside out rather than to be in a GDS-Mark-Two, sitting outside of the centre as a tool to widen the Overton window of possibility.
 
@@ -32,4 +32,4 @@ The major thing that we need to get right is making the work itself sing and spe
 
 On a personal front, I feel at home; that's no mean feat within four weeks. I feel like I'm exactly where I want to be. And this is the first time that work hasn't felt like a bit of an uphill struggle since around autumn 2025.
 
-It's not all roses: my laptop is more locked down than any machine I've ever had. Life without sudo in the Claude Code era is...less fun. I was conscious before starting the job that TLG is adjacent to rather than deep in the digital delivery environments I've spent most of my career in. I wondered if I'd be stepping off the AI wave, unable to get a job in pure digital stuff again at the end of this. On balance I feel mostly fine about that: the intellectual challenge of this work is a better fit for me than that of LLMs and agentic experiences, and I will figure out how to spend time with [Kuba](https://www.kubabartwicki.com/), [Tom](https://www.linkedin.com/in/tomwm/)  and others doing more of the Fun Computers In Government and bring it all back to TLG. And I'll do it all without installing 1Password, because I'm not allowed.
+It's not all roses: my laptop is more locked down than any machine I've ever had. Life without sudo in the Claude Code era is...less fun. I was conscious before starting the job that TLG is adjacent to rather than deep in the digital delivery environments I've spent most of my career in. I wondered if I'd be stepping off the AI wave, unable to get a job in pure digital stuff again at the end of this. On balance I feel mostly fine about that: the intellectual challenge of this work is a better fit for me than that of LLMs and agentic experiences, and I will figure out how to spend time with [Kuba](https://www.kubabartwicki.com/), [Tom](https://www.linkedin.com/in/tomwm/) and others doing more of the Fun Computers In Government and bring it all back to TLG. And I'll do it all without installing 1Password, because I'm not allowed.
